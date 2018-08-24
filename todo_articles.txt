@@ -1,0 +1,12 @@
+1.订单系统复杂性分析
+2.从数据一致性的角度来看mysql事务
+3.全局唯一orderKey设计及实现
+4.基于spring AbstracRoutingDatasource 实现分库分表
+5.基于canal+kafka+es实现分布式数据源数据聚合
+6.es聚合查询简析
+7.angularjs
+8.mysql索引引起deadlock分析
+9.mysql maximal thougthputt https://www.percona.com/blog/2010/02/28/maximal-write-througput-in-mysql/
+10.innodb limit
+11.mysql maximun numbert of columns
+12.java generics https://thegreyblog.blogspot.com/2011/10/bounded-type-variables.html
