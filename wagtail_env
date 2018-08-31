@@ -1,0 +1,8 @@
+1.setting in __init__.py under settings
+  from .dev import *
+2.setting in manage.py
+  os.environ.setdefault("DJANGO_SETTINGS_MODULE", "mysite.settings.dev")
+3.settging in wsgi.py
+  os.environ.setdefault("DJANGO_SETTINGS_MODULE", "mysite.settings.dev")
+4.setting in run commend line
+  ./manage runserver --settings=settings.dev
